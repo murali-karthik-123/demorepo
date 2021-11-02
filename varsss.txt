@@ -1,0 +1,23 @@
+#!/bin/bash
+source ./printvarss.sh
+
+
+echo "name is $name"
+
+echo "age is $age"
+
+echo department is "$department"
+
+
+echo "this is practice"
+
+this is my first day into git 
+
+echo "name is $name"
+
+echo "age is $age"
+
+echo "number is x"
+
+echo "number is y"
+echo "number is z"
