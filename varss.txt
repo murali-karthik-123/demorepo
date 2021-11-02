@@ -12,4 +12,6 @@ echo department is "$department"
 echo "this is practice"
 
 this is my first day into git 
+ echo "let the number is x"
+ echo "let the second number is y"
 
